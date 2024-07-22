@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Sharma</h1>
 <h3 align="center">A passionate to Design and Develop Website and Android Application from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anands295&label=Profile%20views&color=0e75b6&style=flat" alt="anands295" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anands2959&label=Profile%20views&color=0e75b6&style=flat" alt="anands2959" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anands295" alt="anands295" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anands2959" alt="anands2959" /></a> </p>
 
 - 🌱 I’m currently Exploring **MERN and React Native**
 
-- 👨‍💻 All of my projects are available at [the-anand.vercel.app](the-anand.vercel.app)
+- 👨‍💻 All of my projects are available at [https://the-anand.vercel.app/](https://the-anand.vercel.app/)
 
 - 💬 Ask me about **ReactJS,NodeJS**
 
