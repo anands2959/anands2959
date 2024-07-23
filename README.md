@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/anands2959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anands2959" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-kumar-sharma-ab9837216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-kumar-sharma-ab9837216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anand-kumar-sharma-ab9837216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anands2959" height="30" width="40" /></a>
 <a href="https://instagram.com/thisiz_the_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisiz_the_anand" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anands2959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anands2959" height="30" width="40" /></a>
 <a href="https://discord.gg/ak_rocky47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ak_rocky47" height="30" width="40" /></a>
