@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Exploring **MERN and React Native**
 
-- 👨‍💻 All of my projects are available at [https://the-anand.vercel.app/](https://the-anand.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.anandsharma.info/](https://www.anandsharma.info/)
 
 - 💬 Ask me about **ReactJS,NodeJS**
 
